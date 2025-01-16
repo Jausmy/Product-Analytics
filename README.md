@@ -15,9 +15,9 @@ The primary data source for this analysis is a product sales dataset comprising 
 
 ### Tools Used
 The following tools were used for data analysis and visualization:
-•	Microsoft Excel – Data cleaning and exploration
-•	Microsoft SQL Server Management Studio – Exploratory data analysis and data aggregation
-•	Microsoft PowerBI – Data visualization
+-	Microsoft Excel – Data cleaning and exploration
+-	Microsoft SQL Server Management Studio – Exploratory data analysis and data aggregation
+-	Microsoft PowerBI – Data visualization
 
 ### Data Cleaning and Preparation
 The following data cleaning and preparation steps were performed:
