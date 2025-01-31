@@ -4,7 +4,7 @@
 This report presents a comprehensive analysis of product sales data, focusing on key performance indicators, customer segmentation, and profitability analysis. By examining sales trends, customer behavior, and product-level profitability, we aim to provide actionable insights to optimize product strategies, enhance customer satisfaction, and drive revenue growth.
 
 ## Executive Summary
-This analysis was conducted to provide a comprehensive overview of product performance and identify key drivers of profitability. By examining sales data, customer segmentation, and profit margins, we identified key trends and opportunities for improvement. A key insight from the analysis is that the Scarlett 2i2 consistently emerged as the top-performing product in terms of revenue and profit (see Analysis of Product Performance)1. Based on the analysis, we recommend focusing on promoting high-performing products like the Scarlett 2i2 by tailoring marketing campaigns to specific customer segments and optimizing pricing strategies to maximize profitability. By implementing these recommendations, the company can potentially increase overall profit margins by 5-10% and drive sustainable revenue growth (see Potential Impact of Recommendations).
+By examining sales data, customer segmentation, and profit margins, we identified key trends and opportunities for improvement. A key insight from the analysis is that the Scarlett 2i2 consistently emerged as the top-performing product in terms of revenue and profit [(see Analysis of Product Performance)](#Analysis-of-Product-Performance). Based on the analysis, we recommend focusing on promoting high-performing products like the Scarlett 2i2 by tailoring marketing campaigns to specific customer segments and optimizing pricing strategies to maximize profitability. By implementing these recommendations, the company can potentially increase overall profit margins by 15% and drive sustainable revenue growth [(see Potential Impact of Recommendations)](#Potential-Impact-of-Recommendations).
 
 ## Methodology
 ### Data Sources
@@ -26,13 +26,12 @@ The following data cleaning and preparation steps were performed:
 -	Created a SQL query to join the tables and calculate discounted revenue.
 
 ### Data Exploration
-Initial data exploration involved familiarizing ourselves with the dataset and identifying key variables. This included examining the distribution of sales across different products, customer types, and countries, as well as identifying potential correlations between discount bands and units sold.
+Initial data exploration involved familiarizing ourselves with the dataset and identifying key variables. This included examining the distribution of sales across different products, customer types, and countries.
 
 ### Data Analysis Techniques
 The following data analysis techniques were employed:
 -	Trend Analysis: We analyzed sales trends over time, specifically by month and year, to identify seasonal patterns and year-over-year growth. This involved aggregating sales data by date and visualizing the trends to identify any significant fluctuations or consistent patterns in sales performance.
 -	Comparative Analysis: We compared sales performance and profitability across different customer types, countries, and product categories to identify key segments and drivers of revenue. This involved grouping data by these categories and calculating relevant metrics such as total revenue, profit margin, and units sold.
--	Correlation Analysis: We calculated the correlation between discount bands and units sold to understand the relationship between discounts and sales volume. This involved using statistical methods to measure the strength and direction of the linear relationship between these two variables.
 -	Diagnostic Analysis: This analysis was used to identify the root cause of any significant fluctuations in sales or profitability for specific products or customer segments. By examining various factors such as changes in pricing, marketing campaigns, or competitor actions, we aimed to understand the underlying reasons for these fluctuations1.
 
 ## Future Considerations for Data Analysis
@@ -43,30 +42,24 @@ In the future, we can leverage additional data analysis techniques to further re
 ## Analysis of Product Performance
 ### Overall Sales Trends
 Overall sales revenue showed an upward trend in 2023 compared to 2022, indicating positive growth. This growth can be attributed to various factors such as increased brand awareness, successful marketing campaigns, or new product launches.
-(Insert visualizations: Line chart showing overall sales revenue trend by month and year)
 
 ### Analysis of Sales by Country
 The United States consistently generated the highest revenue across all products, followed by Germany and Canada. This suggests that these countries are key markets for the company and should be prioritized in marketing and sales strategies.
-(Insert visualizations: Clustered bar chart showing revenue by country for each product)
 
 ### Analysis of Sales by Customer Type
 Government customers consistently generated the highest revenue and profit across most products, followed by Enterprise and Small Business customers. This highlights the importance of government and business segments to the company's profitability.
-(Insert visualizations: Matrix visualization showing profit by year, customer type, and product)
 
 ### Analysis of Discount Bands
 Discount bands played a significant role in driving sales volume. Higher discount bands generally resulted in higher revenue, suggesting that discounts are an effective strategy to incentivize purchases.
-(Insert visualizations: Donut chart showing the percentage of revenue generated by each discount band)
 
 ### Product-Level Performance
 The Scarlett 2i2 emerged as the top-performing product in terms of both revenue and profit, followed by the Audiobox USB 96 Studio and the NT1-A. The QuadCast S showed a slight decline in profit year-over-year, warranting further investigation.
-(Insert visualizations: Table or bar chart showing product-level revenue and profit)
 
 ### Year-over-Year Performance
 Most products showed positive year-over-year growth in both profit and units sold. The Arctis 7P+ had the highest profit growth (14%), while the MV7 had the highest growth in units sold (20%).
-(Insert visualizations: Table or bar chart showing year-over-year profit and units sold for each product)
+
 ### Customer Segmentation by Product
 The customer segmentation analysis revealed variations in customer type distribution across different products. For example, the Arctis 7P+ had a higher percentage of Government customers, while the QuadCast S had a more balanced distribution across different customer types.
-(Insert visualizations: Tooltip in the product slicer showing customer type breakdown for each product)
 
 ## Recommendations
 Based on the analysis of product sales data, the following recommendations are proposed:
@@ -78,7 +71,7 @@ Based on the analysis of product sales data, the following recommendations are p
 
 ## Potential Impact of Recommendations
 By implementing these recommendations, the company can anticipate the following positive outcomes:
--	Increased Profitability: Focusing on high-performing products, optimizing pricing strategies, and tailoring marketing efforts can potentially increase overall profit margins by 5-10%.
+-	Increased Profitability: Focusing on high-performing products, optimizing pricing strategies, and tailoring marketing efforts can potentially increase overall profit margins by 15%.
 -	Sustainable Revenue Growth: By understanding customer needs and preferences and adapting product strategies accordingly, the company can drive sustainable revenue growth and market share expansion.
 -	Enhanced Customer Satisfaction: By providing products that meet customer needs and offering excellent customer service, the company can enhance customer satisfaction and loyalty.
 
