@@ -60,12 +60,12 @@ Overall sales revenue showed an upward trend in 2023 compared to 2022, indicatin
 ### Analysis of Sales by Country
 The United States consistently generated the highest revenue across all products, followed by Germany and Canada. This suggests that these countries are key markets for the company and should be prioritized in marketing and sales strategies.
 
-![Overall-Revenue-By_Country](Assets/Images/Product%20Analytics%20-%20Revenue%20by%20Country.png)
+![Overall-Revenue-By-Country](Assets/Images/Product%20Analytics%20-%20Overall%20Revenue%20By%20Country.png)
 
 ### Analysis of Sales by Customer Type
 Government customers consistently generated the highest revenue and profit across most products, followed by Enterprise and Small Business customers. This highlights the importance of government and business segments to the company's profitability.
 
-![Overall-Revenue-By_Customer-Type](Assets/Images/Product%20Analytics%20-%20Revenue%20by%20Customer%20Type.png)
+![Overall-Revenue-By-Customer-Type](Assets/Images/Product%20Analytics%20-%20Overall%20Revenue%20By%20Customer%20Type.png)
 
 ### Analysis of Discount Bands
 Discount bands played a significant role in driving sales volume. Higher discount bands generally resulted in higher revenue, suggesting that discounts are an effective strategy to incentivize purchases.
