@@ -1,4 +1,5 @@
 # Data Portfolio: Product Analytics
+![Product-Analytics-Projects-Main-Image](Assets/Images/Product%20Project%20Main%20Image.jpg)
 
 ## Overview
 This report presents a comprehensive analysis of product sales data, focusing on key performance indicators, customer segmentation, and profitability analysis. By examining sales trends, customer behavior, and product-level profitability, we aim to provide actionable insights to optimize product strategies, enhance customer satisfaction, and drive revenue growth.
@@ -10,8 +11,11 @@ By examining sales data, customer segmentation, and profit margins, we identifie
 ### Data Sources
 The primary data source for this analysis is a product sales dataset comprising three tables:
 -	Product_Sales: Contains detailed information on product sales, including date, customer type, country, product, discount band, and units sold.
+![Data-Source-1](Assets/Images/Product%20Analytics%20-%20Data%20Source%203.png)
 -	Product_data: Provides information on product attributes, including product ID, name, category, cost price, sale price, brand, and description.
+![Data-Source-2](Assets/Images/Product%20Analytics%20-%20Data%20Source%202.png)
 -	Discount_data: Contains information on discount bands and corresponding discount rates.
+![Data-Source-3](Assets/Images/Product%20Analytics%20-%20Data%20Source%201.png)
 
 ### Tools Used
 The following tools were used for data analysis and visualization:
@@ -24,6 +28,8 @@ The following data cleaning and preparation steps were performed:
 -	Corrected date formats in the Product_Sales table using Excel.
 -	Imported all three tables into a SQL Server database.
 -	Created a SQL query to join the tables and calculate discounted revenue.
+![SQL-Code](Assets/Images/Product%20Analytics%20-%20SQL%20Code.png)
+![SQL-Code-2](Assets/Images/Product%20Analytics%20-%20SQL%20Code%202.png)
 
 ### Data Exploration
 Initial data exploration involved familiarizing ourselves with the dataset and identifying key variables. This included examining the distribution of sales across different products, customer types, and countries.
