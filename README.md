@@ -11,10 +11,15 @@ By examining sales data, customer segmentation, and profit margins, we identifie
 ### Data Sources
 The primary data source for this analysis is a product sales dataset comprising three tables:
 -	Product_Sales: Contains detailed information on product sales, including date, customer type, country, product, discount band, and units sold.
+
 ![Data-Source-1](Assets/Images/Product%20Analytics%20-%20Data%20Source%203.png)
+
 -	Product_data: Provides information on product attributes, including product ID, name, category, cost price, sale price, brand, and description.
+
 ![Data-Source-2](Assets/Images/Product%20Analytics%20-%20Data%20Source%202.png)
+
 -	Discount_data: Contains information on discount bands and corresponding discount rates.
+
 ![Data-Source-3](Assets/Images/Product%20Analytics%20-%20Data%20Source%201.png)
 
 ### Tools Used
@@ -28,6 +33,7 @@ The following data cleaning and preparation steps were performed:
 -	Corrected date formats in the Product_Sales table using Excel.
 -	Imported all three tables into a SQL Server database.
 -	Created a SQL query to join the tables and calculate discounted revenue.
+
 ![SQL-Code](Assets/Images/Product%20Analytics%20-%20SQL%20Code.png)
 ![SQL-Code-2](Assets/Images/Product%20Analytics%20-%20SQL%20Code%202.png)
 
@@ -48,6 +54,8 @@ In the future, we can leverage additional data analysis techniques to further re
 ## Analysis of Product Performance
 ### Overall Sales Trends
 Overall sales revenue showed an upward trend in 2023 compared to 2022, indicating positive growth. This growth can be attributed to various factors such as increased brand awareness, successful marketing campaigns, or new product launches.
+
+![SQL-Code](Assets/Images/Product%20Analytics%20-%20SQL%20Code.png)
 
 ### Analysis of Sales by Country
 The United States consistently generated the highest revenue across all products, followed by Germany and Canada. This suggests that these countries are key markets for the company and should be prioritized in marketing and sales strategies.
