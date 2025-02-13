@@ -60,20 +60,30 @@ Overall sales revenue showed an upward trend in 2023 compared to 2022, indicatin
 ### Analysis of Sales by Country
 The United States consistently generated the highest revenue across all products, followed by Germany and Canada. This suggests that these countries are key markets for the company and should be prioritized in marketing and sales strategies.
 
+![Overall-Revenue-By_Country](Assets/Images/Product%20Analytics%20-%20Revenue%20by%20Country.png)
+
 ### Analysis of Sales by Customer Type
 Government customers consistently generated the highest revenue and profit across most products, followed by Enterprise and Small Business customers. This highlights the importance of government and business segments to the company's profitability.
+
+![Overall-Revenue-By_Customer-Type](Assets/Images/Product%20Analytics%20-%20Revenue%20by%20Customer%20Type.png)
 
 ### Analysis of Discount Bands
 Discount bands played a significant role in driving sales volume. Higher discount bands generally resulted in higher revenue, suggesting that discounts are an effective strategy to incentivize purchases.
 
 ### Product-Level Performance
-The Scarlett 2i2 emerged as the top-performing product in terms of both revenue and profit, followed by the Audiobox USB 96 Studio and the NT1-A. The QuadCast S showed a slight decline in profit year-over-year, warranting further investigation.
+The Scarlett 2i2 emerged as the top-performing product in terms of both revenue and profit, followed by the NT1-A, and the Audiobox USB 96 Studio. The Arctis 7P+ was the worst performing product in terms of revenue, while the MV7 was the worst performing product in terms of profit. 
 
 ### Year-over-Year Performance
-Most products showed positive year-over-year growth in both profit and units sold. The Arctis 7P+ had the highest profit growth (14%), while the MV7 had the highest growth in units sold (20%).
+Most products showed positive year-over-year growth in both profit and units sold except for the QuadCast S. The MV7 had the highest growth in both revenue (34%) and profit (20%). We should look to see which factors influenced this increase (marketing, sales, external factors) and look to replicate this with our other products.
+
+![MV7-YoY](Assets/Images/Product%20Analytics%20-%20MV7%20YoY.png)
 
 ### Customer Segmentation by Product
-The customer segmentation analysis revealed variations in customer type distribution across different products. For example, the Arctis 7P+ had a higher percentage of Government customers, while the QuadCast S had a more balanced distribution across different customer types.
+The customer segmentation analysis revealed variations in customer type distribution across different products. For example, the NT1-A had a higher percentage of Government customers, while the MV7 had a more balanced distribution across different customer types.
+
+![NT1-A-Customer-Type](Assets/Images/Product%20Analytics%20-%20NT1-A%20Customer%20Type.png)
+
+![MV7-Customer-Type](Assets/Images/Product%20Analytics%20-%20MV7%20Customer%20Type.png)
 
 ## Recommendations
 Based on the analysis of product sales data, the following recommendations are proposed:
