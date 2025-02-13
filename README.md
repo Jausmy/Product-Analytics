@@ -55,7 +55,7 @@ In the future, we can leverage additional data analysis techniques to further re
 ### Overall Sales Trends
 Overall sales revenue showed an upward trend in 2023 compared to 2022, indicating positive growth. This growth can be attributed to various factors such as increased brand awareness, successful marketing campaigns, or new product launches.
 
-![SQL-Code](Assets/Images/Product%20Analytics%20-%20SQL%20Code.png)
+![Overall-Revenue-By_Year](Assets/Images/Product%20Analytics%20-%20Revenue%20by%20Date.png)
 
 ### Analysis of Sales by Country
 The United States consistently generated the highest revenue across all products, followed by Germany and Canada. This suggests that these countries are key markets for the company and should be prioritized in marketing and sales strategies.
