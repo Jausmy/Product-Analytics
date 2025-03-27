@@ -44,7 +44,7 @@ Initial data exploration involved familiarizing ourselves with the dataset and i
 The following data analysis techniques were employed:
 -	Trend Analysis: We analyzed sales trends over time, specifically by month and year, to identify seasonal patterns and year-over-year growth. This involved aggregating sales data by date and visualizing the trends to identify any significant fluctuations or consistent patterns in sales performance.
 -	Comparative Analysis: We compared sales performance and profitability across different customer types, countries, and product categories to identify key segments and drivers of revenue. This involved grouping data by these categories and calculating relevant metrics such as total revenue, profit margin, and units sold.
--	Diagnostic Analysis: This analysis was used to identify the root cause of any significant fluctuations in sales or profitability for specific products or customer segments. By examining various factors such as changes in pricing, marketing campaigns, or competitor actions, we aimed to understand the underlying reasons for these fluctuations1.
+-	Diagnostic Analysis: This analysis was used to identify the root cause of any significant fluctuations in sales or profitability for specific products or customer segments. By examining various factors such as changes in pricing, marketing campaigns, or competitor actions, we aimed to understand the underlying reasons for these fluctuations.
 
 ## Future Considerations for Data Analysis
 In the future, we can leverage additional data analysis techniques to further refine our understanding of product performance and customer behavior. These techniques include:
@@ -53,28 +53,30 @@ In the future, we can leverage additional data analysis techniques to further re
 
 ## Analysis of Product Performance
 ### Overall Sales Trends
-Overall sales revenue showed an upward trend in 2023 compared to 2022, indicating positive growth. This growth can be attributed to various factors such as increased brand awareness, successful marketing campaigns, or new product launches.
+Overall sales revenue exhibited an upward trend in 2023, contrasting with the relatively flat performance observed in 2022. However, despite the overall growth in 2023, 2022 experienced higher peak monthly revenue figures. The 2023 growth can likely be attributed to factors such as increased brand awareness or successful marketing campaigns.
 
 ![Overall-Revenue-By_Year](Assets/Images/Product%20Analytics%20-%20Revenue%20by%20Date.png)
 
 ### Analysis of Sales by Country
-The United States consistently generated the highest revenue across all products, followed by Germany and Canada. This suggests that these countries are key markets for the company and should be prioritized in marketing and sales strategies.
+Canada consistently generated the highest overall revenue across all products in both 2022 and 2023, totaling $613,913. This was closely followed by the USA ($611,562) and France ($610,709). These figures indicate that Canada, the USA, and France are pivotal markets for the company, and strategic focus on these regions within marketing and sales efforts is warranted.
 
 ![Overall-Revenue-By-Country](Assets/Images/Product%20Analytics%20-%20Overall%20Revenue%20By%20Country.png)
 
 ### Analysis of Sales by Customer Type
-Government customers consistently generated the highest revenue and profit across most products, followed by Enterprise and Small Business customers. This highlights the importance of government and business segments to the company's profitability.
+Government customers consistently generated the highest overall revenue and profit across all products in both 2022 and 2023, with Enterprise and Education customers following. This underscores the critical importance of the government and enterprise sectors to the company's financial performance.
 
 ![Overall-Revenue-By-Customer-Type](Assets/Images/Product%20Analytics%20-%20Overall%20Revenue%20By%20Customer%20Type.png)
 
 ### Analysis of Discount Bands
 Discount bands played a significant role in driving sales volume. Higher discount bands generally resulted in higher revenue, suggesting that discounts are an effective strategy to incentivize purchases.
 
+![Discount-Bands](Assets/Images/Product%20Analytics%20-%20Discount%20Bands.png)
+
 ### Product-Level Performance
-The Scarlett 2i2 emerged as the top-performing product in terms of both revenue and profit, followed by the NT1-A, and the Audiobox USB 96 Studio. The Arctis 7P+ was the worst performing product in terms of revenue, while the MV7 was the worst performing product in terms of profit. 
+The Scarlett 2i2 emerged as the top-performing product in terms of both revenue and profit, followed by the NT1-A, and the Audiobox USB 96 Studio. The Arctis 7P+ was the worst performing product in terms of revenue, while the MV7 was the worst performing product in terms of total profit. 
 
 ### Year-over-Year Performance
-Most products showed positive year-over-year growth in both profit and units sold except for the QuadCast S. The MV7 had the highest growth in both revenue (34%) and profit (20%). We should look to see which factors influenced this increase (marketing, sales, external factors) and look to replicate this with our other products.
+Most products showed positive year-over-year growth in both profit and units sold except for the QuadCast S. The MV7 had the highest growth in both year-over-year revenue (34%) and year-over-year profit (20%). We should look to see which factors influenced this increase (marketing, sales, external factors) and look to replicate this with our other products espcially the QuadCast S.
 
 ![MV7-YoY](Assets/Images/Product%20Analytics%20-%20MV7%20YoY.png)
 
